@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yay, see you on the 18th!";
   gif.src =
-    "https://giphy.com/gifs/8WAvpZ0NEpOd3iJ4uN";
+    "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l2azg4MWh2aDAxOGl1azN1Nmx6amM1bWxlbjJ4aGFnbGVzYzVydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WAvpZ0NEpOd3iJ4uN/giphy-downsized-large.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
