@@ -7,7 +7,7 @@ const noBtn = document.querySelector(".no-btn");
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "本当？！ありがとう！！";
   gif.src =
-    "https://media.giphy.com/media/xNYcbFhf8ul51EJykP/giphy.gif";
+    "https://media.giphy.com/media/YIYhgGXqqyTRJog7AM/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
